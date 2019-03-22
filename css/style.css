@@ -56,7 +56,14 @@ body{
   float: left;
   font-family: georgia, serif;
 }
+.projects h3{
+  font-size: 17px;
+}
 .projects ul{
   font-size: 15px;
   line-height: 30px;
+}
+.background{
+ float: left;
+ font-family: georgia, serif;
 }
