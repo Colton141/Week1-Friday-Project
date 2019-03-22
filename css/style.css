@@ -15,7 +15,10 @@
   padding-right: 10px;
   float: right;
 }
-
+.contact{
+  font-size: 18px;
+  margin-left: 20px;
+}
 body{
   background-color: whitesmoke;
 }
@@ -55,15 +58,46 @@ body{
   width: 100%;
   float: left;
   font-family: georgia, serif;
+  margin-bottom: 20px;
+}
+.projects h2{
+  font-size: 35px;
 }
 .projects h3{
-  font-size: 17px;
+  font-size: 20px;
 }
 .projects ul{
-  font-size: 15px;
-  line-height: 30px;
+  font-size: 17px;
+  line-height: 45px;
 }
 .background{
  float: left;
  font-family: georgia, serif;
+ margin-bottom: 20px;
+}
+.background h2{
+  font-size: 35px;
+}
+.background h4{
+  line-height: 20px;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+.epicodus{
+  font-style: italic;
+}
+.background p{
+  line-height: 45px;
+  font-size: 17px;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.interest{
+  font-family: georgia, serif;
+  float: left;
+  width: 100%;
+
 }
