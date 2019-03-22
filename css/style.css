@@ -31,6 +31,7 @@ body{
   transform: rotate(90deg);
   width: 524px;
 }
+
 .aboutme{
   margin-top: 75px;
   width: 100%;
@@ -46,6 +47,7 @@ body{
   font-size: 20px;
   margin-bottom: 45px;
 }
+
 .footer{
   width: 100%;
   float: left;
@@ -70,6 +72,7 @@ body{
   font-size: 17px;
   line-height: 45px;
 }
+
 .background{
  float: left;
  font-family: georgia, serif;
@@ -95,9 +98,20 @@ body{
   margin-left: 20px;
   margin-right: 20px;
 }
+
 .interest{
   font-family: georgia, serif;
   float: left;
   width: 100%;
 
+}
+.list{
+  font-size: 17px;
+  line-height: 35px;
+}
+
+.skills{
+  float: left;
+  width: 100%;
+  font-family: georgia, serif;
 }
