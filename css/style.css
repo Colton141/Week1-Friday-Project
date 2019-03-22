@@ -22,8 +22,41 @@ body{
 
 #image{
   float: left;
+  border-bottom: 50px;
   margin-top: 115px;
+  margin-bottom: 50px;
   transform: rotate(90deg);
   width: 524px;
-  heigtt: 632px;
+}
+.aboutme{
+  margin-top: 75px;
+  width: 100%;
+  text-align: center;
+  font-family: georgia, serif;
+}
+.aboutme h2{
+  font-size: 45px;
+  margin-bottom: 25px;
+}
+.aboutme p{
+  line-height: 50px;
+  font-size: 20px;
+  margin-bottom: 45px;
+}
+.footer{
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: darkslategrey;
+}
+
+.projects{
+  text-align: left;
+  width: 100%;
+  float: left;
+  font-family: georgia, serif;
+}
+.projects ul{
+  font-size: 15px;
+  line-height: 30px;
 }
