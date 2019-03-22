@@ -10,7 +10,7 @@ This is my portfolio that includes information about me.
 
 ## Setup/Installation Requirements
 
-* Open the link at the top of page in your brower
+* Open the link at the top of page in your browser
 
 ## Technologies Used
 
