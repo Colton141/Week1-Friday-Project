@@ -15,9 +15,6 @@
   padding-right: 10px;
   float: right;
 }
-.contact{
-  font-size: 18px;
-  margin-left: 20px;
 }
 body{
   background-color: whitesmoke;
@@ -114,4 +111,16 @@ body{
   float: left;
   width: 100%;
   font-family: georgia, serif;
+}
+.contact{
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.contact h2{
+  line-height: 15px;
+  text-align: center;
+  font-size: 20px;
 }
