@@ -1,6 +1,6 @@
 #  Colton Lacey's Portfolio
 
-
+https://github.com/Colton141/Week1-Friday-Project/tree/gh-pages
 
 #### By Colton Lacey
 
@@ -12,14 +12,9 @@ This is my portfolio that includes information about me.
 
 * Open the link at the top of page in your brower
 
-
 ## Technologies Used
 
 HTML
 CSS
 
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 Colton Lacey
